@@ -1,4 +1,14 @@
 - layout: left
+  company: Steez
+  link: elephantcs.nl
+  job_title: Freelance Webdeveloper
+  dates: Januari 2020 - ...
+  quote: >
+    Focus op creatie.
+  description: | # this will include new lines to allow paragraphs
+    Na bijna tien jaar te hebben bijgedragen aan Elephant, merkte ik dat mijn rol meer verschoof van creatie naar management. Ik besloot dus weer voor mijzelf te starten,
+    wederom onder de naam Steez.
+- layout: left
   company: Elephant
   link: elephantcs.nl
   job_title: Lead Developer / Partner
